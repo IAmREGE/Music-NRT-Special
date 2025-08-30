@@ -1,6 +1,6 @@
 # PV sources of Special music
 This is the repository containing the sources of the original PVs (Promotion
-Videos) of specific version of songs by [REGE](https://github.com/IAmREGE).
+Videos) by [REGE](https://github.com/IAmREGE) of specific version of songs.
 
 ## Report issues
 Feel free to open an issue if you encounter an error when you load the files,
